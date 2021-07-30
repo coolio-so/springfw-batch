@@ -10,3 +10,4 @@
 
 target/*
 ExtSpringJUnit4ClassRunner.java
+.DS_Store
